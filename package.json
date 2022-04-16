@@ -1,0 +1,14 @@
+{
+  "name": "new-auth-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "new-auth-app": "bin/new-auth-app.js"
+  },
+  "author": "Agustin Quetto",
+  "license": "ISC"
+}
